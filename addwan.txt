@@ -20,6 +20,7 @@ Jika nambahnya di wan slot WAN IP
 Conn Mode	: IP_Bridged
 Service List	: INTERNET atau Other
 
+Pilih Bridged saja jika device terdapat native dhcp
 =========================================================================================
 
 Wan Route/PPPoE
