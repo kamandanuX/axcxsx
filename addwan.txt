@@ -1,3 +1,5 @@
+RESOLVE PING ERROR ON DEVICE PAGE https://www.youtube.com/watch?v=qDi59bF20KM
+
 WAN mode
 =========================================================================================
 WAN Bridge
